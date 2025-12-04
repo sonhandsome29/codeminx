@@ -3,3 +3,83 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+{//1 color (màu chữ)
+.title-content{
+    color: red;
+    
+}}
+{//2 font-size (kích thước chữ)
+.title-content{
+    font-size: 24px;
+    
+}}
+{//3.font-weight (độ đậm nhạt chữ)
+.title-content{
+    font-weight: bold;
+    
+}}
+{//4.text-align (căn lề chữ)
+
+.title-content{
+    text-align: center;
+    
+}}
+{//5.text-decoration (trang trí chữ)
+.title-content{
+    text-decoration: underline;
+    
+}}
+{//6.font-style (kiểu chữ)
+.title-content{
+    font-style: italic;
+    
+}}
+{//7.text-transform (chuyển đổi chữ)
+.title-content{
+    text-transform: uppercase;
+    
+}}
+{//8.letter-spacing (khoảng cách giữa các chữ)
+.title-content{
+    letter-spacing: 2px;
+    
+}}
+{//9.line-height (chiều cao dòng)
+.title-content{
+    line-height: 1.5;
+    
+}}
+{//10.text-shadow (bóng chữ)
+.title-content{
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+    
+}}
+{//11.word-spacing (khoảng cách giữa các từ)
+.title-content{
+    word-spacing: 4px;
+    
+}}
+{//12.text-indent (thụt lề dòng đầu)
+.title-content{
+    text-indent: 30px;
+    
+}}
+{//13.white-space (xử lý khoảng trắng)
+.title-content{
+    white-space: nowrap;
+    
+}}
+{//14.direction (hướng chữ)
+.title-content{
+    direction: rtl;
+   
+    
+}
+}
+{//15.font-family (phông chữ)
+.title-content{
+    font-family: Arial, sans-serif;
+    
+}
+}
